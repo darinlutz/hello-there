@@ -1,4 +1,4 @@
 # hello-there
 first repository deal
 
-Sue Truskey's commit. Wow.
+fix the inner game to fix the outer game
